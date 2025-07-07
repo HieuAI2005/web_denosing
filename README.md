@@ -37,3 +37,4 @@ pip install -r requirements.txt
 
 # Khởi chạy ứng dụng
 python app.py
+http://127.0.0.1:5000
