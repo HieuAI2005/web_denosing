@@ -10,10 +10,11 @@
 
 ---
 
-## 🚀 Demo (tuỳ chọn)
+## 🚀 Demo
 
 <!-- Bạn có thể thêm ảnh screenshot ở đây -->
 <!-- ![Demo](static/demo.gif) -->
+[Image](Screenshot from 2025-07-08 00-57-59.png)
 ---
 
 ## 🛠️ Công nghệ sử dụng
