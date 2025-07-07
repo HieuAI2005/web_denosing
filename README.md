@@ -14,7 +14,7 @@
 
 <!-- Bạn có thể thêm ảnh screenshot ở đây -->
 <!-- ![Demo](static/demo.gif) -->
-![Demo](static/demo_screenshot.png)
+![Demo](static/denoising_image.png)
 ---
 
 ## 🛠️ Công nghệ sử dụng
